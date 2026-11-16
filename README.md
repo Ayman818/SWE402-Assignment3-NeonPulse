@@ -54,7 +54,7 @@ The top-three ranking is based on the **65 marks for feedback implementation and
 **Observed result after revision:** [What the tester noticed on re-test.]
 
 ## Demonstration video
-**Public/unlisted accessible link:** [ADD YOUR OWN LINK HERE]
+**Public/unlisted accessible link:** (https://youtu.be/tb8j12gfrCc)
 
 Record 2–3 minutes with narration and game audio, as described in `VIDEO_SCRIPT.md`.
 
